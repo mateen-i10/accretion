@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Accretion - SaaS Landing Page Template",
+  title: "Accretion - SaaS",
   description:
     "Organize tasks and projects in one connected, accessible platform.",
 };
